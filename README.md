@@ -11,9 +11,7 @@ https://newsapi.org/docs
 # App screens
 
 ![image](https://user-images.githubusercontent.com/48474590/58441520-e84f8300-80e2-11e9-838c-c432a32f5e1d.png =960x640)
-
-<img src="https://user-images.githubusercontent.com/48474590/58441520-e84f8300-80e2-11e9-838c-c432a32f5e1d.png" alt="alt text" width="1136" height="640">
-
+<img src="https://user-images.githubusercontent.com/48474590/58441520-e84f8300-80e2-11e9-838c-c432a32f5e1d.png" alt="alt text" width="540" height="960">
 
 
 ![image](https://user-images.githubusercontent.com/48474590/58441526-f00f2780-80e2-11e9-9f31-39d5cdf737f1.png)
