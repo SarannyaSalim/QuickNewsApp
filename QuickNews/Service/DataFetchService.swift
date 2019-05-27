@@ -23,7 +23,7 @@ final class NewsFetchService : ResponseHandler, DataFetchServiceProtocol{
     
     func fetchDatafromServer(fromPage number : Int, _ completion: @escaping ((Result<Articles, ErrorResult>) -> Void)) {
         
-        let key = "bd05112cec824209913198a603d414c6"
+        let key = "xyz"
         let pageSize = 21
         let endpoint = "https://newsapi.org/v2/top-headlines?country=de&category=business&apiKey=\(key)&page=\(number)&pageSize=\(pageSize)"
         
